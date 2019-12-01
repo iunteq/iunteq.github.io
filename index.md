@@ -7,7 +7,7 @@ A small initiative to be enriched together for better coding! `-by Debangshu Roy
 
 Own Repos | Other contributions
 ------------ | -------------
-  :) | [[5.8] Create EnsureEmailIsVerified.php in App / Http / Middleware / #5024](https://github.com/iunteq/laravel/commit/2bfb6d2ea77ec4b2b8e5dbe07d815a61020486dd)
+ [tailwindcss-textShadow](https://github.com/iunteq/tailwindcss-textShadow) | [[5.8] Create EnsureEmailIsVerified.php in App / Http / Middleware / #5024](https://github.com/iunteq/laravel/commit/2bfb6d2ea77ec4b2b8e5dbe07d815a61020486dd)
 
 
 
